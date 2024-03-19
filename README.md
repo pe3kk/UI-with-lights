@@ -2,7 +2,5 @@ This systems uses a Linux 8 server hosted on Oracle Free Web Hosting, where a Re
 
 In Studio: https://youtube.com/shorts/p4qIWob12xA?feature=share
 
-With UI: https://vimeo.com/925173020?share=copy
-
-         https://vimeo.com/925173129?share=copy
+With UI: https://vimeo.com/925173020, https://vimeo.com/925173129
 
